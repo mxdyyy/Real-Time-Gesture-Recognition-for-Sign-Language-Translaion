@@ -89,7 +89,10 @@ Due to the lack of an existing suitable dataset online, we created our own image
 ## Proof of Concept
 - **HELLO:** Live input video detecting the gesture for "HELLO".
 - **THANK YOU:** Live input video detecting the gesture for "THANK YOU".
-  
+- **FINE:** Live input video detecting the gesture for "FINE".
+- **I LOVE YOU:** Live input video detecting the gesture for "I LOVE YOU".
+- **HOW ARE YOU:** Live input video detecting the gesture for "HOW ARE YOU".
+
 [Video of Live Input Footage](https://drive.google.com/file/d/1NYw3qUR5ls4kRQBDCiF9f4NdSBRBNVVt/view?usp=sharing)
 
 ## Contributors
